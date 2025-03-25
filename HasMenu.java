@@ -34,5 +34,5 @@ import java.util.scanner.*;
       }
      
         scan.close();
-      }
-:
+     }
+
